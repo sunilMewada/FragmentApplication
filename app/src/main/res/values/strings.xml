@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FragmentApplication</string>
+    
+    <string-array name="titles">
+        <item>Activity 0</item>
+        <item>Services 1</item>
+    </string-array>
+
+    <string-array name="discription">
+        <item>0 An activity is an application component.</item>
+        <item>1 Serives always running in background.</item>
+    </string-array>
+</resources>
